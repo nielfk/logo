@@ -1,0 +1,27 @@
+.rooms{
+    margin-top: 120px;
+}
+.rooms__title{
+    color: #d4c17f;
+    font-size: 36px;
+}
+.rooms__name{
+    font-family:'Raleway';
+    font-weight: 400;
+    font-size: 24px;
+    position: absolute;
+    bottom: 50px;
+    left: 50px;
+    margin: 0;
+    margin-top: 30px;
+}
+.rooms__item--position{
+    position: relative;
+    margin-top: 30px;
+
+}
+.rooms__sector{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}

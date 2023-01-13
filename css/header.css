@@ -1,0 +1,20 @@
+.header__list{
+    display: flex;
+    list-style: none;
+
+    font-family:'Raleway';
+}
+
+header{
+    position: absolute;
+    width: 100%;
+    top: 30px;
+}
+.header__content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+li{
+    margin-left: 40px;
+}

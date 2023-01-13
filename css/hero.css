@@ -1,0 +1,38 @@
+.hero{
+    background: url(../img/hero/hero-bg.png);
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 200px;
+    background-position:center;
+}
+.hero_title{
+    max-width: 556px;
+    font-size: 40px;
+    color: #d4c17f;
+    text-align: center;
+    margin: 0 auto;
+}
+.hero__img{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 200px;
+}
+.hero__bottom{
+    display: flex;
+    justify-content: center;
+
+}
+.hero__contact{
+    margin: 0 50px;
+    font-size: 18px;
+    font-family: 'Raleway';
+    display: flex;
+    align-items: start;
+
+}
+.hero__addres--icon{
+    margin-right: 18px;
+}
+.hero__phone--icone{
+    margin-right: 15px;
+}

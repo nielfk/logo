@@ -1,0 +1,22 @@
+.features{
+    margin-top: 120px;
+    text-align: center;
+    font-family:'Raleway';
+    font-weight: 400;
+}
+.features__benche{
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 27px;
+    margin-top: 53px;
+}
+.features__content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.features__item{
+    width: 193px;
+    text-align: center;
+    margin: 0 35px;
+}

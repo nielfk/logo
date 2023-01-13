@@ -1,0 +1,45 @@
+.conteiner{
+    max-width: 1110px;
+    margin: 0 auto;
+}
+
+.section__title{
+    color: #d4c17f;
+    font-size: 36px;  
+}
+
+.form{
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.form__input{
+    background: #ffffff;
+    opacity: 0.2;
+    width: 255px;
+    height: 50px;
+    text-align: center;
+    border: none;
+    margin-bottom: 35px;
+    margin: 0 15px 35px 15px;
+}
+
+.form__warning{
+    width: 255px;
+    text-align: center;
+    font-size: 13px;
+}
+
+.form__btn{
+    width: 255px;
+    height: 50px;
+    background: #D4C17F;
+    font-weight: 700;
+    font-size: 16px;
+    border: none;
+    margin: 0 15px 35px 15px;
+    color: #ffffff;
+}

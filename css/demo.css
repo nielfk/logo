@@ -1,0 +1,27 @@
+.demo {
+    font-family: 'Raleway';
+    background: url(../img/demo/text.png);
+    padding: 188px 0;
+}
+
+.demo__description{
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+}
+
+
+.demo__content{
+    display: flex;
+    align-items: center;
+    
+}
+
+.demo__left{
+    max-width: 40%;
+    margin-right: 35px;
+}
+
+.demo__input{
+    margin-bottom: 35px;
+}

@@ -1,0 +1,22 @@
+.footer{
+    background: #2D343C;
+    padding: 60px 0;
+    margin-top: 188px;
+    font-family: 'Raleway';
+}
+
+.footer__content{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.footer__item{
+    margin-bottom: 15px;
+}
+
+.footer__mai {
+    font-weight: 500;
+    color:#d4c17f;
+}
+
